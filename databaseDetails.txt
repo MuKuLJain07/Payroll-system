@@ -1,0 +1,7 @@
+Host: sql6.freesqldatabase.com
+Database name: sql6639730
+Database user: sql6639730
+Database password: KYc7Av4cVF
+Port number: 3306
+
+Connection URL : jdbc:mysql://sql6.freesqldatabase.com:3306/sql6639730

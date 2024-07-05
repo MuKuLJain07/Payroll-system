@@ -1,0 +1,22 @@
+	GL Bajaj Institute of Technology and Management							
+	____________________________________________				
+Name :		()
+Designation :		
+Payscale :		
+		===============================
+Month : Select					DEDUCTIONS
+
+Unauthorized Leaves Taken : 0					CPF : 0.0
+Basic Pay : 0.0					VPF : 0.0
+Grade Pay : 0.0					CPF Advance : 0
+H and A : 0.0					Festive Advance : 0
+DA : 0.0					Income Tax : 0
+TA : 3200.0
+DA on TA : 6495.999999999999
+CEA : 0.0
+Others : 0.0
+Gross Pay : 9696.0					Total Deductions : 0
+_________________________________________________________________
+
+	Net Pay : 9696.00
+_________________________________________________________________
